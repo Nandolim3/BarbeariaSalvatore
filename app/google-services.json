@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202402894829",
+    "project_id": "barbearia-salvatore",
+    "storage_bucket": "barbearia-salvatore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202402894829:android:2f5720470a4c564cee0de4",
+        "android_client_info": {
+          "package_name": "com.example.barbeariasalvatore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGL8SW1uxB6h3Jr7uu5FMQYxpdS2hDkM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
